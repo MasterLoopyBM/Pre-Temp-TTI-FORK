@@ -1,0 +1,5 @@
+Why is phase 3.5 here? the quick answer is it contains the MAPS from phase 3.5 b/c phase 3.5
+was TOO BIG for github (over 100MB) so it wouldn't upload. this was my solution
+the issue is I don't have access to the source of TTI so I can't change where
+parts of the resources is located. (or heck even compile it and dist via a seperate launcher.)
+if you want to use a content pack I highly rec using one that has ALL it's files in 1 file.
